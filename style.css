@@ -1,0 +1,30 @@
+div {
+  margin-left: 100px;
+}
+
+#blue-color {
+
+  color: blue
+
+}
+
+#avenir {
+
+  font-face: Avenir, sans-serif;
+
+}
+
+h1 {
+
+  font-family: Georgia;
+  font-size: 80px;
+
+}
+
+h2 {
+
+  font-family: Avenir, sans-serif;
+  font-size: 30px;
+  font-style: bold;
+
+}
